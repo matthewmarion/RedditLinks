@@ -1,0 +1,5 @@
+name: RedditLinks
+author: hm04
+description: Reddit subreddit link autocompletion.
+main: us.mattmarion.redditlinks.RedditLinks
+version: 1.0
